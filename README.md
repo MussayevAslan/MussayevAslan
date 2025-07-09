@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MussayevAslan
-- 👀 I’m interested in programming web-apps/game development/drawing
-- 🌱 I’m currently learning Python/Flask/Django, JavaScript/React, Godot/GdScript
+- 👀 I’m interested in programming apps/game development/drawing
+- 🌱 I’m currently learning Python, Godot/GdScript, Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
